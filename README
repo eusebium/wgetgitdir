@@ -1,0 +1,16 @@
+Get recursive folders and files from github
+
+Usage
+
+usage: gitdir.py [-h] url
+
+Download directories/folders from GitHub
+
+positional arguments:
+  url
+
+optional arguments:
+  -h, --help  show this help message and exit
+Exiting
+
+To exit the program, just press CTRL+C.
