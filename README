@@ -2,7 +2,7 @@ Get recursive folders and files from github
 
 Usage
 
-usage: gitdir.py [-h] url
+usage: wgetgitdir.py [-h] url
 
 Download directories/folders from GitHub
 
